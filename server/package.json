@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Simple chatting application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ishan8727/SimpleChatApp.git"
+  },
+  "author": "Ishan Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishan8727/SimpleChatApp/issues"
+  },
+  "homepage": "https://github.com/ishan8727/SimpleChatApp#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1"
+  }
+}
