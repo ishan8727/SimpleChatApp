@@ -13,7 +13,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/ishan8727/socket-io-chat.git
+git clone https://github.com/ishan8727/SimpleChatApp.git
 Navigate to the project directory:
 
 bash
